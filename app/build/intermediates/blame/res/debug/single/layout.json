@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/root/Downloads/GContacts (2)/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/root/Downloads/GContacts (2)/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/root/Downloads/GContacts/app/build/intermediates/res/merged/debug/layout/activity_splash_screen.xml",
+        "source": "/root/Downloads/GContacts/app/src/main/res/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "/root/Downloads/GContacts/app/build/intermediates/res/merged/debug/layout/auth_dialog.xml",
+        "source": "/root/Downloads/GContacts/app/src/main/res/layout/auth_dialog.xml"
+    },
+    {
+        "merged": "/root/Downloads/GContacts/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/root/Downloads/GContacts/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/root/Downloads/GContacts (2)/app/build/intermediates/res/merged/debug/layout/contact_list.xml",
+        "source": "/root/Downloads/GContacts (2)/app/src/main/res/layout/contact_list.xml"
+    },
+    {
+        "merged": "/root/Downloads/GContacts (2)/app/build/intermediates/res/merged/debug/layout/auth_dialog.xml",
+        "source": "/root/Downloads/GContacts (2)/app/src/main/res/layout/auth_dialog.xml"
+    },
+    {
+        "merged": "/root/Downloads/GContacts (2)/app/build/intermediates/res/merged/debug/layout/activity_splash_screen.xml",
+        "source": "/root/Downloads/GContacts (2)/app/src/main/res/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "/root/Downloads/GContacts/app/build/intermediates/res/merged/debug/layout/contact_list.xml",
+        "source": "/root/Downloads/GContacts/app/src/main/res/layout/contact_list.xml"
+    }
+]

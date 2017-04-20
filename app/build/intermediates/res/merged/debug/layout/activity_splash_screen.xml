@@ -1,0 +1,24 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <your.package.TypewriterView
+        android:id="@+id/tagline_typewriter"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:padding="10dp"
+        android:textSize="16sp"
+        android:windowSoftInputMode="stateHidden"
+        android:textColor="@android:color/white"
+        android:text="Exceptionaire"/>
+
+    <!-- Overlay a view to prevent user from focusing the typewriter edit text view -->
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:editable="false"
+        android:focusable="false"
+        android:background="@android:color/transparent"></EditText>
+
+</FrameLayout>

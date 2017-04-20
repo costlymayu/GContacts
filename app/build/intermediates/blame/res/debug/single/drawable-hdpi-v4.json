@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/root/Downloads/GContacts (2)/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/google.png",
+        "source": "/root/Downloads/GContacts (2)/app/src/main/res/drawable-hdpi/google.png"
+    },
+    {
+        "merged": "/root/Downloads/GContacts (2)/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/list_row_bg.xml",
+        "source": "/root/Downloads/GContacts (2)/app/src/main/res/drawable-hdpi/list_row_bg.xml"
+    },
+    {
+        "merged": "/root/Downloads/GContacts/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/list_row_selector.xml",
+        "source": "/root/Downloads/GContacts/app/src/main/res/drawable-hdpi/list_row_selector.xml"
+    },
+    {
+        "merged": "/root/Downloads/GContacts/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/list_row_bg.xml",
+        "source": "/root/Downloads/GContacts/app/src/main/res/drawable-hdpi/list_row_bg.xml"
+    },
+    {
+        "merged": "/root/Downloads/GContacts/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/google.png",
+        "source": "/root/Downloads/GContacts/app/src/main/res/drawable-hdpi/google.png"
+    },
+    {
+        "merged": "/root/Downloads/GContacts (2)/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/list_row_selector.xml",
+        "source": "/root/Downloads/GContacts (2)/app/src/main/res/drawable-hdpi/list_row_selector.xml"
+    },
+    {
+        "merged": "/root/Downloads/GContacts/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/list_row_bg_hover.xml",
+        "source": "/root/Downloads/GContacts/app/src/main/res/drawable-hdpi/list_row_bg_hover.xml"
+    },
+    {
+        "merged": "/root/Downloads/GContacts (2)/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/list_row_bg_hover.xml",
+        "source": "/root/Downloads/GContacts (2)/app/src/main/res/drawable-hdpi/list_row_bg_hover.xml"
+    }
+]
